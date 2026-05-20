@@ -133,12 +133,6 @@ The following features were created during preprocessing:
 
 ---
 
-### Trade Volume vs Closed PnL
-
-![Trade Volume vs Closed PnL](images/trade_volume_vs_pnl.png)
-
----
-
 ### Trading Activity Over Time
 
 ![Trading Activity](images/trading_activity.png)
