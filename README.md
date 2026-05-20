@@ -135,7 +135,7 @@ The following features were created during preprocessing:
 
 ### Trading Activity Over Time
 
-![Trading Activity](images/trading_activity.png)
+![Trading Activity](images/activity_over_time.png)
 
 ---
 
